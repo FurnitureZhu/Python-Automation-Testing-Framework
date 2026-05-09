@@ -1,6 +1,6 @@
 # Python UI + API Automation Testing Framework
 
-## 📌 项目简介
+## 项目简介
 
 本项目是一个基于 Python 的自动化测试框架，结合 API 自动化测试与 UI 自动化测试，用于演示基础测试框架设计能力。
 
@@ -9,7 +9,7 @@ https://the-internet.herokuapp.com/login
 
 ---
 
-## 🚀 功能特点
+## 功能特点
 
 ### API 自动化
 - 基于 requests + pytest
@@ -28,7 +28,7 @@ https://the-internet.herokuapp.com/login
 
 ---
 
-## ▶️ 运行方式
+## 运行方式
 
 ```bash
 pip install -r requirements.txt
